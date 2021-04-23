@@ -1,0 +1,10 @@
+export const ROOT = '/';
+export const WELCOME = '/welcome';
+export const MAIN = '/main';
+export const REGISTER = '/register';
+export const LOGIN = '/login';
+export const LOGIN_EXPERT = '/login_expert';
+export const LOGIN_ANALYST = '/login_analyst';
+export const CREATE_TASK = '/create_task';
+export const VIEW_TASK = '/task/:id';
+export const SHOW_USERS_RESULTS = '/results/:id';
